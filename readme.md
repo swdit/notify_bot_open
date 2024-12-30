@@ -17,7 +17,7 @@ Notify Bot Open is a simple notification tool that allows you to send a commente
 1. Clone this repository
 2. Alter the `config.yml` file with your credentials
 3. Install dependencies
-4. Execute the script
+4. Execute the script or set it as background task on a server.
 
 ## Configuration File (config.yml)
 
